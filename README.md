@@ -4,7 +4,7 @@
 # Malick Diattara
 ###  Junior Data Scientist | Spécialiste Mathématiques Appliquées
  Ottawa, Canada  
- [malickdiattara243@gmail.com](mailto:malickdiattara243@gmail.com) | 📱 +1 819-979-3981 | 🔗 [Mon profil LinkedIn](TON_LIEN_PUBLIC_ICI)
+ [malickdiattara243@gmail.com](mailto:malickdiattara243@gmail.com) |  +1 819-979-3981 | 🔗 [Mon profil LinkedIn](https://www.linkedin.com/feed/)
 
 ---
 
@@ -31,14 +31,23 @@ Je suis un **Junior Data Scientist** passionné par l'intersection entre les mat
 
 ##  Projets Clés
 
-### 1. Classification des tumeurs cérébrales (IRM)
+### 1. Détection de fraude par carte bancaire (Europe)
+Préparation des données pour le Machine Learning
+**Analyse :** Étude du comportement des transactions et du contexte de fraude bancaire dans un environnement réel fortement déséquilibré.
+**Exploration :** Analyse statistique, distributions, asymétries et visualisation du déséquilibre des classes.
+**Data Preparation :** Transformations de variables (logarithmiques, temporelles), création de variables dérivées et encodage.
+**Déséquilibre :** Application et comparaison de plusieurs méthodes de rééquilibrage avec des métriques adaptées (Recall, F1-score, AUC).
+**Résultat :** Dataset final propre, transformé et équilibré, prêt pour un modèle de classification.
+**Outils :** Python, Pandas, NumPy, Matplotlib, Scikit-learn.
+
+### 2. Classification des tumeurs cérébrales (IRM)
 *Système d’aide à la décision médicale (CAD)*
 - **Objectif :** Automatiser le diagnostic de 4 types de tissus (Gliome, Méningiome, Adénome, Sain).
 - **Méthodologie :** Conception d'un modèle de Deep Learning basé sur les **Réseaux de Neurones Convolutifs (CNN)**.
 - **Résultat :** Extraction automatique de caractéristiques pour un diagnostic rapide et fiable.
 - **Outils :** Python, TensorFlow/Keras, OpenCV.
 
-### 2. Analyse des coûts d’assurance médicale (USA)
+### 3. Analyse des coûts d’assurance médicale (USA)
 *Analyse statistique et régression linéaire*
 - **Analyse :** Étude de l'impact des facteurs démographiques sur les primes d'assurance.
 - **Statistiques :** Tests d'hypothèses (ANOVA, tests t) pour valider l'impact du tabagisme et de l'IMC.
