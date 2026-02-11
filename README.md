@@ -54,7 +54,7 @@ Préparation des données pour le Machine Learning
 - **Objectif :** Automatiser le diagnostic de 4 types de tissus (Gliome, Méningiome, Adénome, Sain).
 - **Méthodologie :** Conception d'un modèle de Deep Learning basé sur les **Réseaux de Neurones Convolutifs (CNN)**.
 - **Résultat :** Extraction automatique de caractéristiques pour un diagnostic rapide et fiable.
-- **Outils :** Python, TensorFlow/Keras, OpenCV.
+- **Outils :** Python, Pandas, TensorFlow/Keras, OpenCV
 ---
 
 ##  Formation
