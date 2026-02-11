@@ -41,20 +41,20 @@ Préparation des données pour le Machine Learning
 **Outils :** Python, Pandas, NumPy, Matplotlib, Scikit-learn.
 🔗 [Lien Notebook du Projet : ](https://nbviewer.org/github/malickdiattara243-lang/MalickDiattara/blob/main/Projet-Detection-Fraude/Projet_ia1_finall.ipynb)
 
-### 2. Classification des tumeurs cérébrales (IRM)
-*Système d’aide à la décision médicale (CAD)*
-- **Objectif :** Automatiser le diagnostic de 4 types de tissus (Gliome, Méningiome, Adénome, Sain).
-- **Méthodologie :** Conception d'un modèle de Deep Learning basé sur les **Réseaux de Neurones Convolutifs (CNN)**.
-- **Résultat :** Extraction automatique de caractéristiques pour un diagnostic rapide et fiable.
-- **Outils :** Python, TensorFlow/Keras, OpenCV.
-
-### 3. Analyse des coûts d’assurance médicale (USA)
+### 2. Analyse des coûts d’assurance médicale (USA)
 *Analyse statistique et régression linéaire*
 - **Analyse :** Étude de l'impact des facteurs démographiques sur les primes d'assurance.
 - **Statistiques :** Tests d'hypothèses (ANOVA, tests t) pour valider l'impact du tabagisme et de l'IMC.
 - **Modèle :** Régression linéaire multiple atteignant **75 % de variance expliquée**.
 - **Outils :** Python, Pandas, Matplotlib, Statsmodels.
+🔗 [Lien Notebook du Projet : ](https://nbviewer.org/github/malickdiattara243-lang/MalickDiattara/blob/main/Projet-Assurance/Exploration_ua2.ipynb)
 
+### 3. Classification des tumeurs cérébrales (IRM)
+*Système d’aide à la décision médicale (CAD)*
+- **Objectif :** Automatiser le diagnostic de 4 types de tissus (Gliome, Méningiome, Adénome, Sain).
+- **Méthodologie :** Conception d'un modèle de Deep Learning basé sur les **Réseaux de Neurones Convolutifs (CNN)**.
+- **Résultat :** Extraction automatique de caractéristiques pour un diagnostic rapide et fiable.
+- **Outils :** Python, TensorFlow/Keras, OpenCV.
 ---
 
 ##  Formation
