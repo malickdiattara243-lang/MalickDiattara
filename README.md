@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/photo.jpg" width="150" height="150" style="border-radius: 50%;">
+</p>
 # Malick Diattara
 ###  Junior Data Scientist | Spécialiste Mathématiques Appliquées
  Ottawa, Canada  
