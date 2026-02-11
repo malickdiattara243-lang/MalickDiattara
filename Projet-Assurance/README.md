@@ -17,3 +17,7 @@ Pour ce projet, j'ai appliqué une approche rigoureuse :
 ##  Outils utilisés
 - **Langage :** Python
 - **Librairies :** Pandas (Data), Matplotlib/Seaborn (Visualisation), Statsmodels (Statistiques).
+
+##  Accès au Code
+Vous pouvez consulter l'intégralité de mon analyse et le code Python ici :
+ [Consulter le Notebook d'analyse](./Exploration_ua2.ipynb)
