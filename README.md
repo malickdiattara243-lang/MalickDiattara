@@ -39,6 +39,7 @@ Préparation des données pour le Machine Learning
 **Déséquilibre :** Application et comparaison de plusieurs méthodes de rééquilibrage avec des métriques adaptées (Recall, F1-score, AUC).
 **Résultat :** Dataset final propre, transformé et équilibré, prêt pour un modèle de classification.
 **Outils :** Python, Pandas, NumPy, Matplotlib, Scikit-learn.
+🔗 [Lien Notebook du Projet : ](https://nbviewer.org/github/malickdiattara243-lang/MalickDiattara/blob/main/Projet-Detection-Fraude/Projet_ia1_finall.ipynb)
 
 ### 2. Classification des tumeurs cérébrales (IRM)
 *Système d’aide à la décision médicale (CAD)*
