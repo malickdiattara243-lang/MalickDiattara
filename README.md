@@ -38,7 +38,7 @@ Préparation des données pour le Machine Learning
 **Data Preparation :** Transformations de variables (logarithmiques, temporelles), création de variables dérivées et encodage.
 **Déséquilibre :** Application et comparaison de plusieurs méthodes de rééquilibrage avec des métriques adaptées (Recall, F1-score, AUC).
 **Résultat :** Dataset final propre, transformé et équilibré, prêt pour un modèle de classification.
-**Outils :** ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+**Outils :** ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) <br>
 🔗 [Lien Notebook du Projet : ](https://github.com/malickdiattara243-lang/MalickDiattara/blob/main/Projet_ia1_finall.ipynb)
 
 ### 2. Analyse des coûts d’assurance médicale (USA)
@@ -46,7 +46,7 @@ Préparation des données pour le Machine Learning
 - **Analyse :** Étude de l'impact des facteurs démographiques sur les primes d'assurance.
 - **Statistiques :** Tests d'hypothèses (ANOVA, tests t) pour valider l'impact du tabagisme et de l'IMC.
 - **Modèle :** Régression linéaire multiple atteignant **75 % de variance expliquée**.
-- **Outils :** ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![Statsmodels](https://img.shields.io/badge/Statsmodels-71231D?style=flat-square)
+- **Outils :** ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![Statsmodels](https://img.shields.io/badge/Statsmodels-71231D?style=flat-square) <br>
 🔗 [Lien Notebook du Projet : ](https://nbviewer.org/github/malickdiattara243-lang/MalickDiattara/blob/main/Projet-Assurance/Exploration_ua2.ipynb)
 
 ### 3. Classification des tumeurs cérébrales (IRM)
@@ -54,8 +54,9 @@ Préparation des données pour le Machine Learning
 - **Objectif :** Automatiser le diagnostic de 4 types de tissus (Gliome, Méningiome, Adénome, Sain).
 - **Méthodologie :** Conception d'un modèle de Deep Learning basé sur les **Réseaux de Neurones Convolutifs (CNN)**.
 - **Résultat :** Extraction automatique de caractéristiques pour un diagnostic rapide et fiable.
-- **Outils :** ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat-square&logo=opencv&logoColor=white)
+- **Outils :** ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat-square&logo=opencv&logoColor=white) <br>
 🔗 [Lien vers Documentation](./)
+
 ---
 
 ##  Formation
