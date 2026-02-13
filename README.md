@@ -31,13 +31,13 @@ Je suis un **Junior Data Scientist** passionné par l'intersection entre les mat
 
 ##  Projets Clés
 
-### 1. Détection de fraude par carte bancaire (Europe)
-Préparation des données pour le Machine Learning
-**Analyse :** Étude du comportement des transactions et du contexte de fraude bancaire dans un environnement réel fortement déséquilibré.
-**Exploration :** Analyse statistique, distributions, asymétries et visualisation du déséquilibre des classes.
-**Data Preparation :** Transformations de variables (logarithmiques, temporelles), création de variables dérivées et encodage.
-**Déséquilibre :** Application et comparaison de plusieurs méthodes de rééquilibrage avec des métriques adaptées (Recall, F1-score, AUC).
-**Résultat :** Dataset final propre, transformé et équilibré, prêt pour un modèle de classification.
+### 1. Détection de fraude par carte bancaire (Europe) <br>
+Préparation des données pour le Machine Learning <br>
+**Analyse :** Étude du comportement des transactions et du contexte de fraude bancaire dans un environnement réel fortement déséquilibré. <br>
+**Exploration :** Analyse statistique, distributions, asymétries et visualisation du déséquilibre des classes. <br>
+**Data Preparation :** Transformations de variables (logarithmiques, temporelles), création de variables dérivées et encodage. <br>
+**Déséquilibre :** Application et comparaison de plusieurs méthodes de rééquilibrage avec des métriques adaptées (Recall, F1-score, AUC). <br>
+**Résultat :** Dataset final propre, transformé et équilibré, prêt pour un modèle de classification. <br>
 **Outils :** ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) <br>
 🔗 [Lien Notebook du Projet : ](https://github.com/malickdiattara243-lang/MalickDiattara/blob/main/Projet_ia1_finall.ipynb)
 
