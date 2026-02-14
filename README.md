@@ -1,8 +1,10 @@
 <p align="center">
   <img src="assets/photo.jpg" width="150" height="150" style="border-radius: 50%;">
 </p>
-##  À propos de moi <br>
+---
+##  À propos de moi   <br>
 
+---
 Mon nom est **Malick**, <br>
 Je suis un **Data Scientist** passionné par l'intersection entre les mathématiques rigoureuses et la technologie moderne. <br>
 Fort d'un parcours académique solide au Sénégal et au Canada. <br>
