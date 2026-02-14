@@ -1,20 +1,22 @@
 <p align="center">
   <img src="assets/photo.jpg" width="150" height="150" style="border-radius: 50%;">
 </p>
-# Malick Diattara
-###  Junior Data Scientist | Spécialiste Mathématiques Appliquées
- Ottawa, Canada  
- [malickdiattara243@gmail.com](mailto:malickdiattara243@gmail.com) |  +1 819-979-3981 | 🔗 [Mon profil LinkedIn](https://www.linkedin.com/feed/)
+##  À propos de moi <br>
+Mon Nnom est ** Malick **, <br>
+Je suis un ** Data Scientist** passionné par l'intersection entre les mathématiques rigoureuses et la technologie moderne. <br>
+Fort d'un parcours académique solide au Sénégal et au Canada. <br>
 
----
-
-##  À propos de moi
-Je suis un **Junior Data Scientist** passionné par l'intersection entre les mathématiques rigoureuses et la technologie moderne. Fort d'un parcours académique solide au Sénégal et au Canada, je me spécialise dans la transformation de données brutes en leviers de décision stratégiques.
-
-**Mes domaines de prédilection :**
--  Analyse statistique avancée & Modélisation prédictive.
--  Machine Learning & Deep Learning (Vision par ordinateur).
--  Architecture Big Data & Solutions Cloud.
+**Mes domaines de prédilection :** <br>
+-  la transformation de données brutes en leviers de décision stratégiques. <br>
+-  Analyse statistique avancée & Modélisation prédictive. <br>
+-  Machine Learning & Deep Learning (Vision par ordinateur). <br>
+-  Conception de bases de données structurées et optimisation des requêtes complexes. <br>
+-  Création de tableaux de bord interactifs et de systèmes de reporting automatisés. <br>
+-  Architecture Big Data & Solutions Cloud. <br>
+    
+     [Adresse :] Ottawa, Canada <br>
+     [MEmail](malickdiattara243@gmail.com) <br>
+ 🔗 [Mon profil LinkedIn](https://www.linkedin.com/feed/) <br>
 
 ---
 
