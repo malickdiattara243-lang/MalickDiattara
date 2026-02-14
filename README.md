@@ -16,9 +16,9 @@ Fort d'un parcours académique solide au Sénégal et au Canada. <br>
 -  Architecture Big Data & Solutions Cloud. <br>
     
       **Adresse :** Ottawa, Canada <br>
-      **Email :** malickdiattara243@gmail.com <br>
- 🔗  **Mon profil LinkedIn :** (https://www.linkedin.com/feed/) <br>
- 🔗  **Mon Portfolio :** (https://malickdiattara243-lang.github.io/MalickDiattara/)) <br>
+  🔗  **Email :** malickdiattara243@gmail.com <br>
+  🔗  **Mon profil LinkedIn :** (https://www.linkedin.com/feed/) <br>
+  🔗  **Mon Portfolio :** (https://malickdiattara243-lang.github.io/MalickDiattara/) <br>
 
 ---
 
