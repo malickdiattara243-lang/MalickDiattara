@@ -62,7 +62,6 @@ Préparation des données pour le Machine Learning <br>
 - **Méthodologie :** Conception d'un modèle de Deep Learning basé sur les **Réseaux de Neurones Convolutifs (CNN)**.
 - **Résultat :** Extraction automatique de caractéristiques pour un diagnostic rapide et fiable.
 - **Outils :** ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat-square&logo=opencv&logoColor=white) <br>
-🔗 [Lien vers Documentation](./)
 
 ---
 
