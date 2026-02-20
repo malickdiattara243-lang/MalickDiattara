@@ -67,7 +67,7 @@ Préparation des données pour le Machine Learning <br>
 
 ##  Formation
 - **2026 : DEC en Science de Données Appliquées** – *Collège La Cité, Ottawa*
-- **2023 : Master 1 Mathématiques Appliquées** – *Univ. Iba Der Thiam de Thiès, Sénégal*
+- **2023 : Master  Mathématiques Appliquées** – *Univ. Iba Der Thiam de Thiès, Sénégal*
 - **2022 : Licence Mathématiques & Informatique** – *Univ. Iba Der Thiam de Thiès, Sénégal*
 
 ---
