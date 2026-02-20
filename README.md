@@ -1,6 +1,16 @@
+<div style="background-color:#0f172a; padding:40px; border-radius:15px; color:white;">
+
 <p align="center">
-  <img src="assets/photo.jpg" width="150" height="150" style="border-radius: 50%;">
+  <img src="assets/photo.jpg" width="150" height="150" style="border-radius: 50%; border: 3px solid #38bdf8;">
 </p>
+
+<h1 align="center">Malick Diattara</h1>
+
+<p align="center">
+Data Scientist | Machine Learning | Big Data
+</p>
+
+</div>
 
 
 **À propos de moi**   <br>
@@ -8,7 +18,7 @@
 
 Mon nom est **Malick**, <br>
 Je suis un **Data Scientist** passionné par l'intersection entre les mathématiques rigoureuses et la technologie moderne. <br>
-Fort d'un parcours académique solide au Sénégal et au Canada. <br>
+Je bénéficie d’un parcours académique solide au Sénégal et au Canada. <br>
 
 **Mes domaines de prédilection :** <br>
 -  la transformation de données brutes en leviers de décision stratégiques. <br>
