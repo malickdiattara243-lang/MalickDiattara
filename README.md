@@ -1,4 +1,4 @@
-<div style="background-color:#0f172a; padding:40px; border-radius:15px; color:white;">
+<div style="background: linear-gradient(135deg, #1e3a8a, #0f172a); padding:40px; border-radius:15px; color:white;">
 
 <p align="center">
   <img src="assets/photo.jpg" width="150" height="150" style="border-radius: 50%; border: 3px solid #38bdf8;">
