@@ -13,21 +13,27 @@
     </div>
   </div>
 
-  <div style="max-width: 900px; margin: -50px auto 50px auto; background: white; padding: 40px; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.05); text-align: center;">
-    <h2 style="color: #0f172a; margin-bottom: 20px;">👤 À propos de moi</h2>
-    <p style="line-height: 1.8; color: #475569; font-size: 1.1rem;">
-      Passionné par l'intersection entre les <strong>mathématiques rigoureuses</strong> et la technologie moderne. Mon objectif est de transformer des données brutes en leviers de décision stratégiques en combinant expertise statistique et outils de pointe.
-    </p>
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 30px;">
-      <div style="background: #f1f5f9; padding: 20px; border-radius: 10px; width: 200px;">
-        <span style="font-size: 2rem;">🎯</span><br>
-        <strong>Ce que je fais</strong><br>
-        <small>Pipelines ML, Vision par ordi, Dashboards</small>
+  <div style="max-width: 950px; margin: -50px auto 50px auto; background: white; padding: 40px; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.05);">
+    <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 30px;">
+      <div style="flex: 1; min-width: 300px;">
+        <img src="assets/Gemini_Generated_Image_78q6u478q6u478q6.jpg" style="width: 100%; border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);" alt="Malick Diattara - Workspace">
       </div>
-      <div style="background: #f1f5f9; padding: 20px; border-radius: 10px; width: 200px;">
-        <span style="font-size: 2rem;">🧠</span><br>
-        <strong>Ma méthode</strong><br>
-        <small>Approche analytique orientée ROI</small>
+      
+      <div style="flex: 1; min-width: 300px; text-align: left;">
+        <h2 style="color: #0f172a; margin-top: 0;">👤 À propos de moi</h2>
+        <p style="line-height: 1.6; color: #475569; font-size: 1rem;">
+          Passionné par l'intersection entre les <strong>mathématiques rigoureuses</strong> et la technologie moderne. Mon objectif est de transformer des données brutes en leviers de décision stratégiques en combinant expertise statistique et outils de pointe.
+        </p>
+        <div style="display: flex; gap: 15px; margin-top: 20px;">
+          <div style="background: #f1f5f9; padding: 10px; border-radius: 8px; flex: 1; text-align: center;">
+            <strong style="display: block; font-size: 1.2rem;">🎯</strong>
+            <small>Pipelines ML</small>
+          </div>
+          <div style="background: #f1f5f9; padding: 10px; border-radius: 8px; flex: 1; text-align: center;">
+            <strong style="display: block; font-size: 1.2rem;">🧠</strong>
+            <small>Analyse ROI</small>
+          </div>
+        </div>
       </div>
     </div>
   </div>
@@ -56,7 +62,6 @@
   <div id="projets" style="padding: 60px 20px; max-width: 1100px; margin: 0 auto;">
     <h2 style="text-align: center; color: #0f172a; margin-bottom: 40px;">🚀 Projets Sélectionnés</h2>
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 30px;">
-      
       <div style="background: white; border-radius: 15px; overflow: hidden; box-shadow: 0 10px 20px rgba(0,0,0,0.05);">
         <img src="https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=500&q=60" style="width:100%; height:180px; object-fit:cover;">
         <div style="padding: 25px;">
@@ -65,7 +70,6 @@
           <a href="https://github.com/malickdiattara243-lang/MalickDiattara/blob/main/Projet_ia1_finall.ipynb" target="_blank" style="color: #38bdf8; text-decoration: none; font-weight: bold;">Voir le Notebook →</a>
         </div>
       </div>
-
       <div style="background: white; border-radius: 15px; overflow: hidden; box-shadow: 0 10px 20px rgba(0,0,0,0.05);">
         <img src="https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=500&q=60" style="width:100%; height:180px; object-fit:cover;">
         <div style="padding: 25px;">
