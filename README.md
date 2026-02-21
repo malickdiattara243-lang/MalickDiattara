@@ -81,12 +81,16 @@
     <div style="max-width: 800px; margin: 0 auto;">
         <h2 style="text-align: center; color: #0f172a; margin-bottom: 30px;">🎓 Formation</h2>
         <div style="border-left: 2px solid #38bdf8; padding-left: 20px;">
-            <div style="margin-bottom: 20px;">
+            <div style="margin-bottom: 25px;">
                 <h4 style="margin:0;">2026 : DEC en Science de Données Appliquées</h4>
                 <p style="margin:0; color:#64748b;">Collège La Cité, Ottawa, Canada</p>
             </div>
-            <div style="margin-bottom: 20px;">
+            <div style="margin-bottom: 25px;">
                 <h4 style="margin:0;">2023 : Master Mathématiques Appliquées</h4>
+                <p style="margin:0; color:#64748b;">Université Iba Der Thiam, Sénégal</p>
+            </div>
+            <div style="margin-bottom: 25px;">
+                <h4 style="margin:0;">2021 : Licence Mathématiques Informatique</h4>
                 <p style="margin:0; color:#64748b;">Université Iba Der Thiam, Sénégal</p>
             </div>
         </div>
