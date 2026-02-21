@@ -3,8 +3,8 @@
   <!-- HERO SECTION -->
   <div style="background:linear-gradient(rgba(15,23,42,0.85),rgba(15,23,42,0.85)),url('https://images.unsplash.com/photo-1518186239717-2e9b1367044e?auto=format&fit=crop&w=1200&q=80');background-size:cover;background-position:center;padding:110px 20px;text-align:center;color:white;">
     
-    <img src="photo.jpg" 
-     style="width:150px; height:150px; object-fit:cover;">
+    <img src="assets/photoScreenshot_20260220_195615_Chrome.jpg" width="150" height="150"
+      style="border-radius:50%;border:4px solid #38bdf8;margin-bottom:25px;box-shadow:0 15px 35px rgba(0,0,0,0.4);object-fit:cover;">
     
     <h1 style="font-size:3rem;letter-spacing:2px;margin:0;font-weight:700;">
       MALICK DIATTARA
